@@ -89,7 +89,9 @@ Na tela de cardápio, o usuário visualiza suas informações cadastradas.
  
 <img src="https://github.com/user-attachments/assets/4e9392dc-50cf-4124-91f2-472f87e42a4d" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
+<a href="https://github.com/LaurenAzevedo/Sistema-De-Cadastros/blob/main/cadastrogatinho.apk"> Download APK </a>
  
 # 📄 Licença
 
